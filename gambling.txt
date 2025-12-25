@@ -1,6 +1,13 @@
+0.0.0.0 api.bet-at-home-assets.com
+0.0.0.0 apiem.bet-at-home.de
+0.0.0.0 bet-at-home.de
+0.0.0.0 bet-at-home-em.regily.com
+0.0.0.0 bet-at-home-de.zendesk.com
 0.0.0.0 eventservice.sportwetten.de
+0.0.0.0 media.bet-at-home-assets.com
 0.0.0.0 sports.tipico.de
 0.0.0.0 sportwetten.de
 0.0.0.0 tipico.de
+0.0.0.0 www.bet-at-home.de
 0.0.0.0 www.sportwetten.de
 0.0.0.0 www.tipico.de
